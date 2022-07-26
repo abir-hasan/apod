@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APOD</string>
+    <string name="warped">It\'s warped.</string>
+    <string name="stars">Over 200 billion stars.</string>
+    <string name="gassy">It\'s really dusty and gassy.</string>
+    <string name="black_hole">Black hole at the centre.</string>
+    <string name="our_universe">Our universe</string>
+    <string name="network_settings">Network settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="please_check_your_network_connection_and_try_again">Please check your network connection and try again.</string>
+    <string name="no_network_connection">No network connection.</string>
+    <string name="oops_something_went_wrong">Oops! Something went wrong.</string>
+    <string name="please_refresh_the_page_and_try_again">Please refresh the page and try again.</string>
+    <string name="reorder_list">Reorder list</string><string name="apply">Apply</string>
+    <string name="reorder_by_title">Reorder by title</string>
+    <string name="reorder_by_date">Reorder by date</string>
+    <string name="reset">Reset</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+</resources>
